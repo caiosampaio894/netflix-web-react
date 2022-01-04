@@ -3,7 +3,6 @@ const core = {
     secondary: '#1a1a1a',
     primaryHover: '#C92118',
     baseBackground: 'transparent'
-
 }
 
 const tipography = {
