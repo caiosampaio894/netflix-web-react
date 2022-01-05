@@ -13,4 +13,4 @@ const userSlice = createSlice({
     reducers
 })
 
-export const { reducer: userReducer, actions: userAction} = userSlice
+export const { reducer: userReducer, actions: userActions} = userSlice
